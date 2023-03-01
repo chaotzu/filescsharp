@@ -1,0 +1,15 @@
+/Users/jdiazm/Downloads/filescsharp/bin/Debug/net7.0/filescsharp
+/Users/jdiazm/Downloads/filescsharp/bin/Debug/net7.0/filescsharp.deps.json
+/Users/jdiazm/Downloads/filescsharp/bin/Debug/net7.0/filescsharp.runtimeconfig.json
+/Users/jdiazm/Downloads/filescsharp/bin/Debug/net7.0/filescsharp.dll
+/Users/jdiazm/Downloads/filescsharp/bin/Debug/net7.0/filescsharp.pdb
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/filescsharp.csproj.AssemblyReference.cache
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/filescsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/filescsharp.AssemblyInfoInputs.cache
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/filescsharp.AssemblyInfo.cs
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/filescsharp.csproj.CoreCompileInputs.cache
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/filescsharp.dll
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/refint/filescsharp.dll
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/filescsharp.pdb
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/filescsharp.genruntimeconfig.cache
+/Users/jdiazm/Downloads/filescsharp/obj/Debug/net7.0/ref/filescsharp.dll
